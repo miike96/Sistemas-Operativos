@@ -1,0 +1,17 @@
+# Compilados y binarios
+*.o
+*.out
+*.exe
+ej1
+ej2
+
+# Archivos temporales
+*.log
+*.tmp
+
+# VS Code settings (si no quieres compartirlos)
+.vscode/
+
+# Otros
+.DS_Store
+Thumbs.db
